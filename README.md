@@ -1,6 +1,6 @@
 # 👋 Anmol Panjwani - Crafting Code, One Line at a Time
 
-🌟 **Software Engineer in the Making | AI Enthusiast | Lifelong Learner**
+🌟 **Software Engineer in the Making | Minor in Marketing | Lifelong Learner**
 
 ---
 
