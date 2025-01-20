@@ -13,7 +13,7 @@ Hey there! I'm Anmol, a passionate **Computer Science** student at Nirma Univers
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anmol-panjwani-984995251/)
-- 💻 [GitHub](https://github.com/anmolp-03)
+- 💻 [E-mail](panjwanianmol03@gmail.com)
 
 ---
 
