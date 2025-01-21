@@ -1,4 +1,4 @@
-# 👋 Anmol Panjwani - Crafting Code, One Line at a Time
+#  Crafting Code, One Line at a Time
 
 🌟 **Software Engineer in the Making | Minor in Marketing | Lifelong Learner**
 
