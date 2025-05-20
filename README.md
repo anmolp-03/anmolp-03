@@ -14,13 +14,12 @@ Hey there! I'm Anmol, a passionate **Computer Science** student at Nirma Univers
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-panjwani-984995251/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)  
-[![Codolio](https://img.shields.io/badge/-Codolio-1DB954?style=flat&logo=Codolio&logoColor=white)](https://codolio.com/profile/ap)
+
 
 ---
 
-## 🛠️ Languages and Tools:
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="30"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C" height="30"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="30"/>  
+## 🛠️ Coding Profiles:
+[![Codolio](https://img.shields.io/badge/-Codolio-1DB954?style=flat&logo=Codolio&logoColor=white)](https://codolio.com/profile/ap)
 
 ---
 
