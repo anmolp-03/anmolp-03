@@ -50,18 +50,3 @@ Hey there! I'm Anmol, a passionate **Computer Science** student at Nirma Univers
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaborating on exciting projects or discussing the latest tech trends. Don't hesitate to reach out!
-
-
----
-
-## 🛠️ Tech & Coding Profiles
-
-- [![Codolio](https://img.shields.io/badge/-Codolio-1DB954?style=flat&logo=Codolio&logoColor=white)](https://codolio.com/profile/ap)
-
----
-
-
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-panjwani-984995251/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)  
